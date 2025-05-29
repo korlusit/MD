@@ -1,0 +1,45 @@
+MBA DATABASE GELISTIRICI NOTLARI
+
+ALPHA EDITION: 
+
+V-0.1
+- Arayüz tasarımı yapılacak
+- Arayüz (.ui) dosyası Python (.py) dosyasına convert edilecek
+- Arayüz ögeleri işlevsel hale getirilecek
+- Main dosyası oluşturulacak
+- Main dosyasına arayüz import edilecek
+- Main dosyasına sqlite3 import edilecek
+- Database işlemleri için sqlite ile db dosyası oluşturulacak
+- Database işlemleri lokal server üzerinden işlenecek şekilde tasarlanılacak
+- Database verilerinin arayüz ile iletişimi saglanacak
+- Database verilerinin arayüz tablosunda görünmesi için loop sistemi kullanılacak
+- Fonksiynlar oluşturulacak
+- Fonksiyonlar butonlara atanacak
+- Gerekiyorsa bugfix yapılacak 
+
+MBA DATABASE YAMA NOTLARI
+
+BETA EDITION
+
+V-0.2
+- Bazı teknik optimizasyonlar ve hata düzeltmeler yapıldı
+- Form alanlarının bazılarını doldurmak zorunlu oldu
+- Arayüz tam ekrana uyarlandı
+- Kayıt yaptıktan sonra form kısmına temizlenme komutu eklendi
+- Programa özel arama motoru gelistirildi
+
+V-0.3
+- Bazı teknik optimizasyonlar ve hata düzeltmeler yapıldı
+- Tüm kayıtlar, Excel dosyası olarak kaydedilebilir hale getirildi
+- Arayüz geliştirildi
+- Müşterilerin ve personellerin detaylarını görüntüleyen pencere eklendi 
+- Ödenecek ve alınacak bilgisi eklendi
+- Detaylı kayıt ekranı eklendi
+- Mevcuk kayıt sistemi "Hızlı Kayıt" olarak degiştirildi
+- Sag tık ile müşteri silme, detayları görüntüleme, ve güncelleme seçenegi eklendi
+- Hesap makinesi eklendi
+
+
+V-0.4
+- Not kısmı eklenecek *
+- Müşterileri güncelleme özelliği getirilecek *

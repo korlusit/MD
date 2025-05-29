@@ -1,0 +1,28 @@
+Bu program, Talha Atalay Körlü tarafından Mimari Bilişim Akademisi için geliştirilmiştir.
+=========================================================================================
+
+PROJE HAKKINDA:
+-Proje Python dilinde yazılmıştır.
+-Projede SQLite, database kaynağı olarak kullanılmıştır.
+-Projede PyQt5 Kütüphanesi ve tasarım uygulaması, UI (User Interface) olarak kullanılmıştır.
+____________________________________________________________________________________________
+
+Kullanım:
+Öğrencinin adı ve mobil telefon numarası (GSM) kaydedilmelidir. Geliştiricinin önerisi kullanım kolaylığı açısından
+tüm harflerin büyük yazılmasıdır. Uluslararası dersler olabileceği için ülke kodu eklenmesi önerilir.
+
+İsim Kayıt Örneği:
+TALHA ATALAY Körlü
+
+GSM Kayıt Örneği:
++90 (505) 111 22 33
+____________________________________________________________________________________________
+
+Bu metin Talha Atalay Körlü tarafından, personeller ve daha sonraki geliştiriciler için yazılmıştır.
+
+İletişim:
+Ad: Talha Atalay Körlü
+GSM: +90 (505) 070 09 08
+e-posta: talha.atalay@outlook.com
+
+

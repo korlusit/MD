@@ -1,0 +1,9 @@
+PyQt6
+python-dateutil
+python-dotenv
+firebase-admin
+loguru
+pandas
+openpyxl
+qtawesome
+requests

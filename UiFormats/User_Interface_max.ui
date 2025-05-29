@@ -1,0 +1,1125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>MainWindow</class>
+ <widget class="QMainWindow" name="MainWindow">
+  <property name="windowModality">
+   <enum>Qt::NonModal</enum>
+  </property>
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>1887</width>
+    <height>992</height>
+   </rect>
+  </property>
+  <property name="sizePolicy">
+   <sizepolicy hsizetype="Maximum" vsizetype="Maximum">
+    <horstretch>0</horstretch>
+    <verstretch>0</verstretch>
+   </sizepolicy>
+  </property>
+  <property name="windowTitle">
+   <string>Mimari Bilişim Akademisi Veritabanı - Beta 0.8</string>
+  </property>
+  <property name="windowIcon">
+   <iconset>
+    <normaloff>../assets/mba_logo.ico</normaloff>../assets/mba_logo.ico</iconset>
+  </property>
+  <property name="styleSheet">
+   <string notr="true"/>
+  </property>
+  <property name="iconSize">
+   <size>
+    <width>24</width>
+    <height>24</height>
+   </size>
+  </property>
+  <property name="toolButtonStyle">
+   <enum>Qt::ToolButtonIconOnly</enum>
+  </property>
+  <widget class="QWidget" name="centralwidget">
+   <property name="sizePolicy">
+    <sizepolicy hsizetype="Expanding" vsizetype="Expanding">
+     <horstretch>0</horstretch>
+     <verstretch>0</verstretch>
+    </sizepolicy>
+   </property>
+   <property name="mouseTracking">
+    <bool>false</bool>
+   </property>
+   <property name="tabletTracking">
+    <bool>false</bool>
+   </property>
+   <widget class="QTableWidget" name="tbllistele">
+    <property name="enabled">
+     <bool>true</bool>
+    </property>
+    <property name="geometry">
+     <rect>
+      <x>370</x>
+      <y>60</y>
+      <width>1490</width>
+      <height>921</height>
+     </rect>
+    </property>
+    <property name="sizePolicy">
+     <sizepolicy hsizetype="Expanding" vsizetype="Expanding">
+      <horstretch>0</horstretch>
+      <verstretch>0</verstretch>
+     </sizepolicy>
+    </property>
+    <property name="baseSize">
+     <size>
+      <width>0</width>
+      <height>0</height>
+     </size>
+    </property>
+    <property name="mouseTracking">
+     <bool>false</bool>
+    </property>
+    <property name="tabletTracking">
+     <bool>false</bool>
+    </property>
+    <property name="acceptDrops">
+     <bool>false</bool>
+    </property>
+    <property name="layoutDirection">
+     <enum>Qt::LeftToRight</enum>
+    </property>
+    <property name="styleSheet">
+     <string notr="true"/>
+    </property>
+    <property name="frameShape">
+     <enum>QFrame::Box</enum>
+    </property>
+    <property name="frameShadow">
+     <enum>QFrame::Sunken</enum>
+    </property>
+    <property name="lineWidth">
+     <number>1</number>
+    </property>
+    <property name="autoScrollMargin">
+     <number>16</number>
+    </property>
+    <property name="tabKeyNavigation">
+     <bool>true</bool>
+    </property>
+    <property name="alternatingRowColors">
+     <bool>false</bool>
+    </property>
+    <property name="selectionMode">
+     <enum>QAbstractItemView::ExtendedSelection</enum>
+    </property>
+    <property name="selectionBehavior">
+     <enum>QAbstractItemView::SelectRows</enum>
+    </property>
+    <property name="showGrid">
+     <bool>true</bool>
+    </property>
+    <property name="gridStyle">
+     <enum>Qt::CustomDashLine</enum>
+    </property>
+    <property name="sortingEnabled">
+     <bool>false</bool>
+    </property>
+    <property name="wordWrap">
+     <bool>true</bool>
+    </property>
+    <property name="cornerButtonEnabled">
+     <bool>true</bool>
+    </property>
+    <property name="rowCount">
+     <number>200</number>
+    </property>
+    <property name="columnCount">
+     <number>8</number>
+    </property>
+    <attribute name="horizontalHeaderCascadingSectionResizes">
+     <bool>false</bool>
+    </attribute>
+    <attribute name="horizontalHeaderDefaultSectionSize">
+     <number>180</number>
+    </attribute>
+    <row/>
+    <row/>
+    <row/>
+    <row/>
+    <row/>
+    <row/>
+    <row/>
+    <row/>
+    <row/>
+    <row/>
+    <row/>
+    <row/>
+    <row/>
+    <row/>
+    <row/>
+    <row/>
+    <row/>
+    <row/>
+    <row/>
+    <row/>
+    <row/>
+    <row/>
+    <row/>
+    <row/>
+    <row/>
+    <row/>
+    <row/>
+    <row/>
+    <row/>
+    <row/>
+    <row/>
+    <row/>
+    <row/>
+    <row/>
+    <row/>
+    <row/>
+    <row/>
+    <row/>
+    <row/>
+    <row/>
+    <row/>
+    <row/>
+    <row/>
+    <row/>
+    <row/>
+    <row/>
+    <row/>
+    <row/>
+    <row/>
+    <row/>
+    <row/>
+    <row/>
+    <row/>
+    <row/>
+    <row/>
+    <row/>
+    <row/>
+    <row/>
+    <row/>
+    <row/>
+    <row/>
+    <row/>
+    <row/>
+    <row/>
+    <row/>
+    <row/>
+    <row/>
+    <row/>
+    <row/>
+    <row/>
+    <row/>
+    <row/>
+    <row/>
+    <row/>
+    <row/>
+    <row/>
+    <row/>
+    <row/>
+    <row/>
+    <row/>
+    <row/>
+    <row/>
+    <row/>
+    <row/>
+    <row/>
+    <row/>
+    <row/>
+    <row/>
+    <row/>
+    <row/>
+    <row/>
+    <row/>
+    <row/>
+    <row/>
+    <row/>
+    <row/>
+    <row/>
+    <row/>
+    <row/>
+    <row/>
+    <row/>
+    <row/>
+    <row/>
+    <row/>
+    <row/>
+    <row/>
+    <row/>
+    <row/>
+    <row/>
+    <row/>
+    <row/>
+    <row/>
+    <row/>
+    <row/>
+    <row/>
+    <row/>
+    <row/>
+    <row/>
+    <row/>
+    <row/>
+    <row/>
+    <row/>
+    <row/>
+    <row/>
+    <row/>
+    <row/>
+    <row/>
+    <row/>
+    <row/>
+    <row/>
+    <row/>
+    <row/>
+    <row/>
+    <row/>
+    <row/>
+    <row/>
+    <row/>
+    <row/>
+    <row/>
+    <row/>
+    <row/>
+    <row/>
+    <row/>
+    <row/>
+    <row/>
+    <row/>
+    <row/>
+    <row/>
+    <row/>
+    <row/>
+    <row/>
+    <row/>
+    <row/>
+    <row/>
+    <row/>
+    <row/>
+    <row/>
+    <row/>
+    <row/>
+    <row/>
+    <row/>
+    <row/>
+    <row/>
+    <row/>
+    <row/>
+    <row/>
+    <row/>
+    <row/>
+    <row/>
+    <row/>
+    <row/>
+    <row/>
+    <row/>
+    <row/>
+    <row/>
+    <row/>
+    <row/>
+    <row/>
+    <row/>
+    <row/>
+    <row/>
+    <row/>
+    <row/>
+    <row/>
+    <row/>
+    <row/>
+    <row/>
+    <row/>
+    <row/>
+    <row/>
+    <row/>
+    <row/>
+    <row/>
+    <row/>
+    <row/>
+    <row/>
+    <row/>
+    <row/>
+    <row/>
+    <row/>
+    <column/>
+    <column/>
+    <column/>
+    <column/>
+    <column/>
+    <column/>
+    <column/>
+    <column/>
+   </widget>
+   <widget class="QPushButton" name="btnara">
+    <property name="geometry">
+     <rect>
+      <x>370</x>
+      <y>40</y>
+      <width>31</width>
+      <height>21</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">border:none;
+background-color:#004626;
+color:white;</string>
+    </property>
+    <property name="text">
+     <string>Ara</string>
+    </property>
+   </widget>
+   <widget class="QFrame" name="frame">
+    <property name="geometry">
+     <rect>
+      <x>-50</x>
+      <y>-310</y>
+      <width>391</width>
+      <height>5000</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">border: 1px solid black;
+background-color: #004201;
+</string>
+    </property>
+    <property name="frameShape">
+     <enum>QFrame::StyledPanel</enum>
+    </property>
+    <property name="frameShadow">
+     <enum>QFrame::Raised</enum>
+    </property>
+    <widget class="QPushButton" name="btnekle">
+     <property name="geometry">
+      <rect>
+       <x>50</x>
+       <y>370</y>
+       <width>341</width>
+       <height>31</height>
+      </rect>
+     </property>
+     <property name="styleSheet">
+      <string notr="true">color:white;
+background-color: #004221;
+</string>
+     </property>
+     <property name="text">
+      <string>Kayıt Ekle</string>
+     </property>
+    </widget>
+    <widget class="QPushButton" name="btnsil">
+     <property name="geometry">
+      <rect>
+       <x>50</x>
+       <y>430</y>
+       <width>341</width>
+       <height>31</height>
+      </rect>
+     </property>
+     <property name="styleSheet">
+      <string notr="true">color:white;
+background-color: #004221;
+</string>
+     </property>
+     <property name="text">
+      <string>Sil</string>
+     </property>
+    </widget>
+    <widget class="QPushButton" name="btndetay">
+     <property name="geometry">
+      <rect>
+       <x>50</x>
+       <y>460</y>
+       <width>341</width>
+       <height>31</height>
+      </rect>
+     </property>
+     <property name="styleSheet">
+      <string notr="true">color:white;
+background-color: #004221;
+</string>
+     </property>
+     <property name="text">
+      <string>Detay</string>
+     </property>
+    </widget>
+    <widget class="QPushButton" name="btnlistele">
+     <property name="geometry">
+      <rect>
+       <x>50</x>
+       <y>400</y>
+       <width>341</width>
+       <height>31</height>
+      </rect>
+     </property>
+     <property name="styleSheet">
+      <string notr="true">color:white;
+background-color: #004221;
+</string>
+     </property>
+     <property name="text">
+      <string>Güncelle</string>
+     </property>
+    </widget>
+    <widget class="QLabel" name="label">
+     <property name="geometry">
+      <rect>
+       <x>60</x>
+       <y>340</y>
+       <width>171</width>
+       <height>21</height>
+      </rect>
+     </property>
+     <property name="font">
+      <font>
+       <pointsize>10</pointsize>
+       <bold>true</bold>
+      </font>
+     </property>
+     <property name="styleSheet">
+      <string notr="true">border:none;
+color:white;
+</string>
+     </property>
+     <property name="text">
+      <string>Kayıt İşlemleri</string>
+     </property>
+     <property name="alignment">
+      <set>Qt::AlignLeading|Qt::AlignLeft|Qt::AlignVCenter</set>
+     </property>
+    </widget>
+    <widget class="QLabel" name="label_2">
+     <property name="geometry">
+      <rect>
+       <x>60</x>
+       <y>510</y>
+       <width>181</width>
+       <height>21</height>
+      </rect>
+     </property>
+     <property name="font">
+      <font>
+       <pointsize>10</pointsize>
+       <bold>true</bold>
+      </font>
+     </property>
+     <property name="styleSheet">
+      <string notr="true">border:none;
+color:white
+</string>
+     </property>
+     <property name="text">
+      <string>Ders İşlemleri</string>
+     </property>
+     <property name="alignment">
+      <set>Qt::AlignLeading|Qt::AlignLeft|Qt::AlignVCenter</set>
+     </property>
+    </widget>
+    <widget class="QPushButton" name="btnfiyatg">
+     <property name="geometry">
+      <rect>
+       <x>50</x>
+       <y>540</y>
+       <width>341</width>
+       <height>31</height>
+      </rect>
+     </property>
+     <property name="styleSheet">
+      <string notr="true">color:white;
+background-color: #004221;
+</string>
+     </property>
+     <property name="text">
+      <string>Fiyat Güncelle</string>
+     </property>
+    </widget>
+    <widget class="QPushButton" name="btnindirim">
+     <property name="geometry">
+      <rect>
+       <x>50</x>
+       <y>570</y>
+       <width>341</width>
+       <height>31</height>
+      </rect>
+     </property>
+     <property name="styleSheet">
+      <string notr="true">color:white;
+background-color: #004221;
+</string>
+     </property>
+     <property name="text">
+      <string>İndirim Belirle</string>
+     </property>
+    </widget>
+    <widget class="QPushButton" name="btndersekle">
+     <property name="geometry">
+      <rect>
+       <x>50</x>
+       <y>600</y>
+       <width>341</width>
+       <height>31</height>
+      </rect>
+     </property>
+     <property name="styleSheet">
+      <string notr="true">color:white;
+background-color: #004221;
+</string>
+     </property>
+     <property name="text">
+      <string>Ders Ekle/Çıkar</string>
+     </property>
+    </widget>
+    <widget class="QPushButton" name="btnrapor">
+     <property name="geometry">
+      <rect>
+       <x>50</x>
+       <y>700</y>
+       <width>341</width>
+       <height>31</height>
+      </rect>
+     </property>
+     <property name="styleSheet">
+      <string notr="true">color:white;
+background-color: #004221;
+</string>
+     </property>
+     <property name="text">
+      <string>Yönetim Raporu</string>
+     </property>
+    </widget>
+    <widget class="QPushButton" name="btngelirgider">
+     <property name="geometry">
+      <rect>
+       <x>50</x>
+       <y>730</y>
+       <width>341</width>
+       <height>31</height>
+      </rect>
+     </property>
+     <property name="styleSheet">
+      <string notr="true">color:white;
+background-color: #004221;
+</string>
+     </property>
+     <property name="text">
+      <string>Gelir Gider Tablosu</string>
+     </property>
+    </widget>
+    <widget class="QPushButton" name="btnpersoneller">
+     <property name="geometry">
+      <rect>
+       <x>50</x>
+       <y>760</y>
+       <width>341</width>
+       <height>31</height>
+      </rect>
+     </property>
+     <property name="styleSheet">
+      <string notr="true">color:white;
+background-color: #004221;
+</string>
+     </property>
+     <property name="text">
+      <string>Personeller</string>
+     </property>
+    </widget>
+    <widget class="QLabel" name="label_6">
+     <property name="geometry">
+      <rect>
+       <x>60</x>
+       <y>670</y>
+       <width>181</width>
+       <height>21</height>
+      </rect>
+     </property>
+     <property name="font">
+      <font>
+       <pointsize>10</pointsize>
+       <bold>true</bold>
+      </font>
+     </property>
+     <property name="styleSheet">
+      <string notr="true">border:none;
+color:white
+</string>
+     </property>
+     <property name="text">
+      <string>Yönetim İşlemleri</string>
+     </property>
+     <property name="alignment">
+      <set>Qt::AlignLeading|Qt::AlignLeft|Qt::AlignVCenter</set>
+     </property>
+    </widget>
+    <widget class="QLabel" name="logo">
+     <property name="geometry">
+      <rect>
+       <x>70</x>
+       <y>910</y>
+       <width>301</width>
+       <height>281</height>
+      </rect>
+     </property>
+     <property name="styleSheet">
+      <string notr="true">border:none;</string>
+     </property>
+     <property name="text">
+      <string/>
+     </property>
+    </widget>
+    <widget class="QPushButton" name="btnpersoneller_2">
+     <property name="geometry">
+      <rect>
+       <x>50</x>
+       <y>790</y>
+       <width>341</width>
+       <height>31</height>
+      </rect>
+     </property>
+     <property name="styleSheet">
+      <string notr="true">color:white;
+background-color: #004221;
+</string>
+     </property>
+     <property name="text">
+      <string>Analizler</string>
+     </property>
+    </widget>
+   </widget>
+   <widget class="QLineEdit" name="lnearaad">
+    <property name="geometry">
+     <rect>
+      <x>400</x>
+      <y>40</y>
+      <width>180</width>
+      <height>20</height>
+     </rect>
+    </property>
+    <property name="tabletTracking">
+     <bool>false</bool>
+    </property>
+    <property name="autoFillBackground">
+     <bool>false</bool>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">border:1px solid black;</string>
+    </property>
+    <property name="inputMask">
+     <string/>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="alignment">
+     <set>Qt::AlignCenter</set>
+    </property>
+    <property name="placeholderText">
+     <string>Ada Göre</string>
+    </property>
+   </widget>
+   <widget class="QLineEdit" name="lnearatarih">
+    <property name="geometry">
+     <rect>
+      <x>580</x>
+      <y>40</y>
+      <width>180</width>
+      <height>20</height>
+     </rect>
+    </property>
+    <property name="tabletTracking">
+     <bool>false</bool>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">border:1px solid black;</string>
+    </property>
+    <property name="inputMask">
+     <string/>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="alignment">
+     <set>Qt::AlignCenter</set>
+    </property>
+    <property name="placeholderText">
+     <string>Tarihe Göre</string>
+    </property>
+   </widget>
+   <widget class="QLineEdit" name="lnearagsm">
+    <property name="geometry">
+     <rect>
+      <x>760</x>
+      <y>40</y>
+      <width>180</width>
+      <height>20</height>
+     </rect>
+    </property>
+    <property name="tabletTracking">
+     <bool>false</bool>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">border:1px solid black;</string>
+    </property>
+    <property name="inputMask">
+     <string/>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="alignment">
+     <set>Qt::AlignCenter</set>
+    </property>
+    <property name="placeholderText">
+     <string>GSM'ye Göre</string>
+    </property>
+   </widget>
+   <widget class="QLineEdit" name="lnearanot">
+    <property name="geometry">
+     <rect>
+      <x>1120</x>
+      <y>40</y>
+      <width>180</width>
+      <height>20</height>
+     </rect>
+    </property>
+    <property name="tabletTracking">
+     <bool>false</bool>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">border:1px solid black;</string>
+    </property>
+    <property name="inputMask">
+     <string/>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="alignment">
+     <set>Qt::AlignCenter</set>
+    </property>
+    <property name="placeholderText">
+     <string>Ek Nota Göre</string>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="sutun_btn">
+    <property name="geometry">
+     <rect>
+      <x>1829</x>
+      <y>40</y>
+      <width>31</width>
+      <height>20</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <pointsize>8</pointsize>
+     </font>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">border:none;
+background-color:#004626;
+color:white;</string>
+    </property>
+    <property name="text">
+     <string>İptal</string>
+    </property>
+   </widget>
+   <widget class="QComboBox" name="lnesecders">
+    <property name="geometry">
+     <rect>
+      <x>1480</x>
+      <y>40</y>
+      <width>181</width>
+      <height>21</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true"/>
+    </property>
+    <property name="currentIndex">
+     <number>-1</number>
+    </property>
+    <property name="placeholderText">
+     <string>Derse Göre</string>
+    </property>
+    <item>
+     <property name="text">
+      <string>Hepsi</string>
+     </property>
+    </item>
+   </widget>
+   <widget class="QComboBox" name="lnesecdurum">
+    <property name="geometry">
+     <rect>
+      <x>940</x>
+      <y>40</y>
+      <width>181</width>
+      <height>21</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <family>Arial</family>
+      <pointsize>9</pointsize>
+      <kerning>false</kerning>
+     </font>
+    </property>
+    <property name="autoFillBackground">
+     <bool>false</bool>
+    </property>
+    <property name="styleSheet">
+     <string notr="true"/>
+    </property>
+    <property name="currentIndex">
+     <number>-1</number>
+    </property>
+    <property name="placeholderText">
+     <string>Duruma Göre</string>
+    </property>
+    <item>
+     <property name="text">
+      <string>Kayıt</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>Görüşme</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>Olumlu</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>Kararsız</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>Olumsuz</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>Hepsi</string>
+     </property>
+    </item>
+   </widget>
+   <widget class="QLineEdit" name="lnearaid">
+    <property name="geometry">
+     <rect>
+      <x>1660</x>
+      <y>40</y>
+      <width>171</width>
+      <height>20</height>
+     </rect>
+    </property>
+    <property name="tabletTracking">
+     <bool>false</bool>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">border:1px solid black;</string>
+    </property>
+    <property name="inputMask">
+     <string/>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="alignment">
+     <set>Qt::AlignCenter</set>
+    </property>
+    <property name="placeholderText">
+     <string>ID ye Göre</string>
+    </property>
+   </widget>
+   <widget class="QLineEdit" name="lnearameslek">
+    <property name="geometry">
+     <rect>
+      <x>1300</x>
+      <y>40</y>
+      <width>180</width>
+      <height>20</height>
+     </rect>
+    </property>
+    <property name="tabletTracking">
+     <bool>false</bool>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">border:1px solid black;</string>
+    </property>
+    <property name="inputMask">
+     <string/>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="alignment">
+     <set>Qt::AlignCenter</set>
+    </property>
+    <property name="placeholderText">
+     <string>Mesleğe Göre</string>
+    </property>
+   </widget>
+   <widget class="QWidget" name="wdg_slider" native="true">
+    <property name="geometry">
+     <rect>
+      <x>310</x>
+      <y>0</y>
+      <width>1641</width>
+      <height>26</height>
+     </rect>
+    </property>
+   </widget>
+   <zorder>tbllistele</zorder>
+   <zorder>wdg_slider</zorder>
+   <zorder>frame</zorder>
+   <zorder>btnara</zorder>
+   <zorder>lnearaad</zorder>
+   <zorder>lnearatarih</zorder>
+   <zorder>lnearagsm</zorder>
+   <zorder>lnearanot</zorder>
+   <zorder>sutun_btn</zorder>
+   <zorder>lnesecders</zorder>
+   <zorder>lnesecdurum</zorder>
+   <zorder>lnearaid</zorder>
+   <zorder>lnearameslek</zorder>
+  </widget>
+  <widget class="QMenuBar" name="menubar">
+   <property name="geometry">
+    <rect>
+     <x>0</x>
+     <y>0</y>
+     <width>1887</width>
+     <height>23</height>
+    </rect>
+   </property>
+   <property name="layoutDirection">
+    <enum>Qt::LeftToRight</enum>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">background-color: #004626;
+border:1px solid black;
+selection-background-color: rgb(0, 0, 0);
+selection-color: rgb(0, 0, 0);
+selection-color: rgb(170, 255, 255);
+color: rgb(255, 255, 255);</string>
+   </property>
+   <widget class="QMenu" name="menuDosya">
+    <property name="geometry">
+     <rect>
+      <x>302</x>
+      <y>102</y>
+      <width>155</width>
+      <height>74</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true"/>
+    </property>
+    <property name="title">
+     <string>Dosya</string>
+    </property>
+    <addaction name="save_exc"/>
+   </widget>
+   <widget class="QMenu" name="menuAra_lar">
+    <property name="title">
+     <string>Araçlar</string>
+    </property>
+    <widget class="QMenu" name="menuDersler">
+     <property name="title">
+      <string>Dersler</string>
+     </property>
+     <addaction name="actionFiyat"/>
+     <addaction name="actionDers"/>
+    </widget>
+    <addaction name="actionHesap_Makinesi"/>
+    <addaction name="actionNotlar"/>
+    <addaction name="menuDersler"/>
+   </widget>
+   <widget class="QMenu" name="menuEkran">
+    <property name="title">
+     <string>Ekran</string>
+    </property>
+   </widget>
+   <widget class="QMenu" name="menuAyarlar">
+    <property name="layoutDirection">
+     <enum>Qt::LeftToRight</enum>
+    </property>
+    <property name="title">
+     <string>Ayarlar</string>
+    </property>
+    <addaction name="actionG_ncelle"/>
+   </widget>
+   <widget class="QMenu" name="menuKay_t">
+    <property name="title">
+     <string>Yeni Kayıt</string>
+    </property>
+    <addaction name="actionDetayl_Kay_t"/>
+   </widget>
+   <addaction name="menuDosya"/>
+   <addaction name="menuKay_t"/>
+   <addaction name="menuAra_lar"/>
+   <addaction name="menuEkran"/>
+   <addaction name="menuAyarlar"/>
+  </widget>
+  <widget class="QStatusBar" name="statusbar">
+   <property name="styleSheet">
+    <string notr="true">background-color:#004626;
+border:1px solid black;</string>
+   </property>
+  </widget>
+  <action name="actionM_teri_Ekleme">
+   <property name="text">
+    <string>Müşteri Ekleme</string>
+   </property>
+  </action>
+  <action name="actionPersonel_Ekleme">
+   <property name="text">
+    <string>Personel Ekleme</string>
+   </property>
+  </action>
+  <action name="actionE_itmen_Ekleme">
+   <property name="text">
+    <string>Eğitmen Ekleme</string>
+   </property>
+  </action>
+  <action name="save_exc">
+   <property name="text">
+    <string>Ecxel Olarak Kaydet</string>
+   </property>
+  </action>
+  <action name="actionDetayl_Kay_t">
+   <property name="text">
+    <string>Detaylı Kayıt</string>
+   </property>
+  </action>
+  <action name="actionHesap_Makinesi">
+   <property name="text">
+    <string>Hesap Makinesi</string>
+   </property>
+  </action>
+  <action name="actionNotlar">
+   <property name="text">
+    <string>Notlar</string>
+   </property>
+  </action>
+  <action name="actionFiyat">
+   <property name="text">
+    <string>Fiyat Güncelle</string>
+   </property>
+  </action>
+  <action name="actionDers">
+   <property name="text">
+    <string>Ders Ekle/Çıkar</string>
+   </property>
+  </action>
+  <action name="actionG_ncelle">
+   <property name="text">
+    <string>Güncelle</string>
+   </property>
+  </action>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>
